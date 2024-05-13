@@ -8,3 +8,8 @@ This application utilizes the powerful capabilities of the TripoSR and Stability
 1. Just set your your stability key in the ipynb file
 2. Run the prompt2model_1.ipynb file---> Thats all !!!
 
+## Interface
+you will get an interface like--
+![Interface Screenshot]()
+
+
