@@ -15,6 +15,8 @@ you will get an interface like--
 ![3d model](https://github.com/1biswarup2/prompt2model/blob/main/model1.JPG)
 ![3d model](https://github.com/1biswarup2/prompt2model/blob/main/model2.JPG)
 ![3d model](https://github.com/1biswarup2/prompt2model/blob/main/model3.JPG)
+![3d model](https://github.com/1biswarup2/prompt2model/blob/main/model4.JPG)
+
 
 
 
