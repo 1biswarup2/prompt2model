@@ -11,7 +11,7 @@ This application utilizes the powerful capabilities of the TripoSR and Stability
 ## Interface
 you will get an interface like--
 ![Interface Screenshot](https://github.com/1biswarup2/prompt2model/blob/main/p2m1.JPG)
-Now you can donwload this model in OBJ format and that looks like--
+### Now you can donwload this model in OBJ format and that looks like--
 ![3d model](https://github.com/1biswarup2/prompt2model/blob/main/model1.JPG)
 ![3d model](https://github.com/1biswarup2/prompt2model/blob/main/model2.JPG)
 ![3d model](https://github.com/1biswarup2/prompt2model/blob/main/model3.JPG)
