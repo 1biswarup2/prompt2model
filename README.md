@@ -10,6 +10,6 @@ This application utilizes the powerful capabilities of the TripoSR and Stability
 
 ## Interface
 you will get an interface like--
-![Interface Screenshot]()
+![Interface Screenshot](https://github.com/1biswarup2/prompt2model/blob/main/p2m1.JPG)
 
 
